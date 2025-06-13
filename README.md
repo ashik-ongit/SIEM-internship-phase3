@@ -111,7 +111,4 @@ Use case like **Service Creation (7045)** was verified via Event Viewer but othe
 
 ---
 
-## 🧠 Final Note
-
-All attack simulations were performed in a safe lab environment for the SIEM Internship Phase 3 validation. Screenshots were captured in each step as required.
 
